@@ -12,7 +12,7 @@ Welcome to my portfolio website! Here you'll find information about me, my proje
 
 ## About Me
 
-I am a passionate developer with experience in various programming languages. I enjoy tackling challenging problems and creating innovative solutions. In my free time, I love exploring new technologies and contributing to open source projects.
+I am a curious data scientist with experience in various programming languages. I enjoy tackling challenging problems and creating innovative solutions. In my free time, I love exploring new technologies.
 
 ## Projects
 
@@ -44,7 +44,7 @@ You can download my CV in PDF format using the link below:
 
 If you have any questions or would like to collaborate, feel free to reach out to me:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
-- Twitter: [@your-username](https://twitter.com/your-username)
+- Email: hasanbasrizeytun@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hasan-basri-zeytun-64b55b181/)
+- Twitter: [@your-username](https://twitter.com/ZeytunBasri)
 
