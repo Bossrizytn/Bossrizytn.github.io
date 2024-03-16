@@ -1,38 +1,12 @@
 # Hasan Basri Zeytun
 
-# My Portfolio
-
-Welcome to my portfolio website! Here you'll find information about me, my projects, and my CV.
-
-## Table of Contents
-
 - [About Me](#about-me)
 - [Projects](#projects)
 - [CV](#cv)
 
 ## About Me
 
-I am a curious data scientist with experience in various programming languages. I enjoy tackling challenging problems and creating innovative solutions. In my free time, I love exploring new technologies.
-
-## Projects
-
-### Project 1
-
-- Description: Briefly describe your project, highlighting its key features and technologies used.
-- GitHub Repository: [Link to the repository](https://github.com/your-username/project-1)
-- Live Demo: [Link to the live demo](https://your-username.github.io/project-1)
-
-### Project 2
-
-- Description: Briefly describe your project, highlighting its key features and technologies used.
-- GitHub Repository: [Link to the repository](https://github.com/your-username/project-2)
-- Live Demo: [Link to the live demo](https://your-username.github.io/project-2)
-
-### Project 3
-
-- Description: Briefly describe your project, highlighting its key features and technologies used.
-- GitHub Repository: [Link to the repository](https://github.com/your-username/project-3)
-- Live Demo: [Link to the live demo](https://your-username.github.io/project-3)
+I am a curious person with experience in various programming languages. I enjoy tackling challenging problems and trying to create innovative solutions. I love exploring new technologies.
 
 ## CV
 
