@@ -1,4 +1,4 @@
-# Some of us have to create the future, not follow in someone's footsteps.
+## Some of us have to create the future, not follow in someone's footsteps.
 
 - [hbz](#about-me)
 - [Projects](#projects)
